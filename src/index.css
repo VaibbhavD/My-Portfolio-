@@ -10,7 +10,7 @@
 @tailwind utilities;
 
 @layer base {
-   html {
+  html {
     scroll-behavior: smooth;
   }
   h1,
