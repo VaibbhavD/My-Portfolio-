@@ -27,7 +27,7 @@ import avatar3 from "./assets/images/Testimonials/avatar3.png";
 import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
-import Hireme_person2 from "./assets/images/Hireme/person2.png";
+// import Hireme_person2 from "./assets/images/Hireme/person2.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -63,18 +63,17 @@ export const content = {
   ],
   hero: {
     title: "Front-End Developer",
-    firstName: "Vaibhav",
-    LastName: "Dhamanage",
+    firstName: "VAIBHAV",
+    LastName: "DHAMANAGE",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
-        text: "Years of Experinse in Web development",
+        count: "10+",
+        text: "Real World Projects Build while Learning",
       },
       {
-        count: "10+",
-        text: "Projects Build on Learning",
+        text: "Strong Skills in Recat Js and Redux",
       },
     ],
   },
@@ -84,52 +83,52 @@ export const content = {
     skills_content: [
       {
         name: "Java",
-        para: "Lorem ipsum text  dummy",
+        para: "Data & Algorithms",
         logo: java,
       },
       {
         name: "Javascript",
-        para: "Lorem ipsum text  dummy",
+        para: "Programming Language",
         logo: javascript,
       },
       {
         name: "HTML",
-        para: "Lorem ipsum text  dummy",
+        para: "HyperText Markup Language",
         logo: html,
       },
       {
         name: "CSS",
-        para: "Lorem ipsum text  dummy",
+        para: "Cascading Style Sheet",
         logo: css,
       },
       {
         name: "React js",
-        para: "Lorem ipsum text  dummy",
+        para: "Javascript Library",
         logo: reactjs,
       },
       {
         name: "Redux js",
-        para: "Lorem ipsum text  dummy",
+        para: "Javascript Library",
         logo: redux,
       },
       {
         name: "Tailwind",
-        para: "Lorem ipsum text  dummy",
+        para: "CSS Framework",
         logo: tailwind,
       },
       {
         name: "Bootstrap",
-        para: "Lorem ipsum text  dummy",
+        para: "CSS Framework",
         logo: bootstrap,
       },
       {
         name: "GitHub",
-        para: "Lorem ipsum text  dummy",
+        para: "Open source software",
         logo: github,
       },
       {
         name: "Firebase",
-        para: "Lorem ipsum text  dummy",
+        para: "Database",
         logo: firebase,
       },
     ],
@@ -159,7 +158,7 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    image: person_project,
+    // image: person_project,
     project_content: [
       {
         title: "BloGGeR Website",
@@ -213,7 +212,7 @@ export const content = {
     title: "Hire Me",
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
-    image2: Hireme_person2,
+    // image2: Hireme_person2,
     para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
     btnText: "Hire Me",
   },
