@@ -11,7 +11,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 const Projects = () => {
   const { Projects } = content;
   return (
-    <section className="min-h-fit " id="skills">
+    <section className="min-h-fit " id="project">
       <div className="md:container px-5 py-5">
         <div>
           <h3 data-aos="fade-down">{Projects.title}</h3>
