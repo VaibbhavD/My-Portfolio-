@@ -17,9 +17,9 @@ const Skills = () => {
 
   return (
     <section className="min-h-fit bg-bg_light_primary" id="skills">
-      <div className="md:container px-5  py-14">
-        <h2 className="title">{skills.title}</h2>
-        <h4 className="subtitle">{skills.subtitle}</h4>
+      <div className="md:container px-5 py-5">
+        <h3 className="title">{skills.title}</h3>
+        <h6 className="subtitle">{skills.subtitle}</h6>
         <br />
         <div className="flex flex-wrap gap-4 justify-center">
           {skills.skills_content.map((skill, i) => (
