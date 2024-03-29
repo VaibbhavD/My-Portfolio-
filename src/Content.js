@@ -129,7 +129,6 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    // image: person_project,
     project_content: [
       {
         title: "BloGGeR Website",
@@ -164,7 +163,6 @@ export const content = {
   Hireme: {
     title: "About Me",
     subtitle: "Web Developer",
-    image1: Hireme_person,
     // image2: Hireme_person2,
     para: "Hello! I'm Vaibhav Dhamanage, a passionate and dedicated fresher front-end developer with a strong foundation in HTML, CSS, JavaScript, React, and Redux. I am enthusiastic about creating intuitive and visually appealing user interfaces that enhance the overall user experience.I am excited about the opportunity to embark on this journey as a front-end developer and am eager to leverage my skills and enthusiasm to make a meaningful impact. Let's collaborate and build something great together!",
     btnText: "Hire Me",
