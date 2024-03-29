@@ -1,6 +1,6 @@
 import { content } from "../Content";
 
-const Hireme = () => {
+const AboutUs = () => {
   const { Hireme } = content;
 
   return (
@@ -31,4 +31,4 @@ const Hireme = () => {
   );
 };
 
-export default Hireme;
+export default AboutUs;

@@ -4,7 +4,7 @@ import Skills from "./components/Skills";
 
 import Projects from "./components/Projects";
 
-import Hireme from "./components/Hireme";
+import AboutUs from "./components/AboutUs";
 import Contact from "./components/Contact";
 import Navbar from "./Layouts/Navbar";
 
@@ -13,7 +13,7 @@ const App = () => {
     <div className="">
       <Navbar />
       <Hero />
-      <Hireme />
+      <AboutUs />
       <Skills />
       <Projects />
       <Contact />
