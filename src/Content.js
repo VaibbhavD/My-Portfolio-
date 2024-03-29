@@ -37,6 +37,7 @@ import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
 import { MdOutlinePermContactCalendar } from "react-icons/md";
+import { AiOutlineLinkedin } from "react-icons/ai";
 
 export const content = {
   nav: [
@@ -45,16 +46,16 @@ export const content = {
       icon: TbSmartHome,
     },
     {
-      link: "#skills",
+      link: "#AboutUs",
       icon: BiUser,
     },
     {
-      link: "#services",
-      icon: RiServiceLine,
+      link: "#skills",
+      icon: RiProjectorLine,
     },
     {
-      link: "#projects",
-      icon: RiProjectorLine,
+      link: "#project",
+      icon: RiServiceLine,
     },
     {
       link: "#contact",
@@ -73,7 +74,8 @@ export const content = {
         text: "Real World Projects Build while Learning",
       },
       {
-        text: "Strong Skills in Recat Js and Redux",
+        count: "100+",
+        text: "Solve DSA Coding problems",
       },
     ],
   },
@@ -163,18 +165,29 @@ export const content = {
       {
         title: "BloGGeR Website",
         image: project1,
+        description: "blog website anyone can post and see posts.",
+        link: "https://blogger-project.vercel.app/",
+        git: "https://github.com/VaibbhavD/BloGGeR-MegaProject",
       },
       {
         title: "Mail-Box Client",
         image: project2,
+        description: "Biuld realtime Mail Box",
+        link: "https://mail-box-two.vercel.app/",
+        git: "https://github.com/VaibbhavD/Mail-Box-Client",
       },
       {
         title: "Ecommerec Website",
         image: project3,
+        description: "Ecommerce shopping website",
+        link: "https://ecommerce-website-mu-henna.vercel.app/",
+        git: "https://github.com/VaibbhavD/Ecommerce-Website",
       },
       {
         title: "Expense Tracker",
         image: project4,
+        description: "Build Shopping Ecommerce website",
+        git: "https://github.com/VaibbhavD/Expense-Tracker-ReactJs-Redux",
       },
     ],
   },
@@ -209,11 +222,11 @@ export const content = {
     ],
   },
   Hireme: {
-    title: "Hire Me",
-    subtitle: "FOR YOUR PROJECTS",
+    title: "About Me",
+    subtitle: "Web Developer",
     image1: Hireme_person,
     // image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "Hello! I'm Vaibhav Dhamanage, a passionate and dedicated fresher front-end developer with a strong foundation in HTML, CSS, JavaScript, React, and Redux. I am enthusiastic about creating intuitive and visually appealing user interfaces that enhance the overall user experience.I am excited about the opportunity to embark on this journey as a front-end developer and am eager to leverage my skills and enthusiasm to make a meaningful impact. Let's collaborate and build something great together!",
     btnText: "Hire Me",
   },
   Contact: {
@@ -221,19 +234,19 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "vaibhavdhamanage13@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:vaibhavdhamanage13@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+91 8208428378",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "https://wa.me/8208428378",
       },
       {
-        text: "codeaprogram",
-        icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        text: "Linkedin",
+        icon: AiOutlineLinkedin,
+        link: "https://www.linkedin.com/in/vaibhav-dhamanage-94a2b923b/",
       },
     ],
   },
