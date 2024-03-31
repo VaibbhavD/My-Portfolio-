@@ -1,12 +1,4 @@
 import { content } from "../Content";
-// Import Swiper React components
-import { Swiper, SwiperSlide } from "swiper/react";
-
-// Import Swiper styles
-// import "swiper/css";
-// import "swiper";
-
-// import { Pagination } from "swiper";
 
 const Projects = () => {
   const { Projects } = content;
@@ -19,15 +11,6 @@ const Projects = () => {
         </div>
         <div className="flex items-center lg:flex-row flex-col-reverse gap-5 p-5 w-full">
           {Projects.project_content.map((content, i) => (
-            // <div>
-            //   <img src={content.image} alt="..." />
-            //   <div className="flex flex-col gap-1 mt-2">
-            //     <h5 className="font-bold font-Poppins">{content.title}</h5>
-            //     <button className="font-bold text-gray self-end">
-            //       READ MORE
-            //     </button>
-            //   </div>
-            // </div>
             <div class="md:w-1/4 rounded-lg overflow-hidden shadow-lg">
               <img
                 class="w-full"

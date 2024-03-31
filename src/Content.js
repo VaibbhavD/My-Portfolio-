@@ -17,9 +17,6 @@ import project2 from "./assets/images/projects/mail-box.png";
 import project3 from "./assets/images/projects/ecommerce.png";
 import project4 from "./assets/images/projects/expense-tracker.png";
 
-// import Hireme_person2 from "./assets/images/Hireme/person2.png";
-
-// import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
 import { TbSmartHome } from "react-icons/tb";
