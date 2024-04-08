@@ -126,35 +126,35 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    // project_content: [
-    //   {
-    //     title: "BloGGeR Website",
-    //     image: project1,
-    //     description: "blog website anyone can post and see posts.",
-    //     link: "https://blogger-project.vercel.app/",
-    //     git: "https://github.com/VaibbhavD/BloGGeR-MegaProject",
-    //   },
-    //   {
-    //     title: "Mail-Box Client",
-    //     image: project2,
-    //     description: "Biuld realtime Mail Box",
-    //     link: "https://mail-box-two.vercel.app/",
-    //     git: "https://github.com/VaibbhavD/Mail-Box-Client",
-    //   },
-    //   {
-    //     title: "Ecommerec Website",
-    //     image: project3,
-    //     description: "Ecommerce shopping website",
-    //     link: "https://ecommerce-website-mu-henna.vercel.app/",
-    //     git: "https://github.com/VaibbhavD/Ecommerce-Website",
-    //   },
-    //   {
-    //     title: "Expense Tracker",
-    //     image: project4,
-    //     description: "Build Shopping Ecommerce website",
-    //     git: "https://github.com/VaibbhavD/Expense-Tracker-ReactJs-Redux",
-    //   },
-    // ],
+    project_content: [
+      {
+        title: "BloGGeR Website",
+        // image: project1,
+        description: "blog website anyone can post and see posts.",
+        link: "https://blogger-project.vercel.app/",
+        git: "https://github.com/VaibbhavD/BloGGeR-MegaProject",
+      },
+      {
+        title: "Mail-Box Client",
+        // image: project2,
+        description: "Biuld realtime Mail Box",
+        link: "https://mail-box-two.vercel.app/",
+        git: "https://github.com/VaibbhavD/Mail-Box-Client",
+      },
+      {
+        title: "Ecommerec Website",
+        // image: project3,
+        description: "Ecommerce shopping website",
+        link: "https://ecommerce-website-mu-henna.vercel.app/",
+        git: "https://github.com/VaibbhavD/Ecommerce-Website",
+      },
+      {
+        title: "Expense Tracker",
+        // image: project4,
+        description: "Build Shopping Ecommerce website",
+        git: "https://github.com/VaibbhavD/Expense-Tracker-ReactJs-Redux",
+      },
+    ],
   },
 
   Hireme: {
