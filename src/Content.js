@@ -12,7 +12,8 @@ import bootstrap from "./assets/images/Skills/bootstrap.png";
 import firebase from "./assets/images/Skills/firebase.png";
 import github from "./assets/images/Skills/github.png";
 
-import project1 from "./assets/images/projects/blogger.png";
+// import project1 from "./assets/images/projects/blogger.png";
+import project1 from "./assets/images/projects/mail-box.png";
 import project2 from "./assets/images/projects/mail-box.png";
 import project3 from "./assets/images/projects/ecommerce.png";
 import project4 from "./assets/images/projects/expense-tracker.png";
