@@ -15,7 +15,7 @@ const App = () => {
       <Hero />
       <AboutUs />
       <Skills />
-      <Projects />
+      {/* <Projects /> */}
       <Contact />
       <footer className=" text-center">
         <h6 className="mb-3 bg-dark_primary">Vaibhav D</h6>
