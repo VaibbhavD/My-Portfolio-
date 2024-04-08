@@ -12,7 +12,7 @@ import bootstrap from "./assets/images/Skills/bootstrap.png";
 import firebase from "./assets/images/Skills/firebase.png";
 import github from "./assets/images/Skills/github.png";
 
-import project1 from "./assets/images/projects/person.png";
+import p from "./assets/images/projects/person.png";
 // import project2 from "./assets/images/projects/mail-box.png";
 // import project3 from "./assets/images/projects/ecommerce.png";
 // import project4 from "./assets/images/projects/expense-tracker.png";
@@ -129,28 +129,28 @@ export const content = {
     project_content: [
       {
         title: "BloGGeR Website",
-        image: project1,
+        image: p,
         description: "blog website anyone can post and see posts.",
         link: "https://blogger-project.vercel.app/",
         git: "https://github.com/VaibbhavD/BloGGeR-MegaProject",
       },
       {
         title: "Mail-Box Client",
-        image: project1,
+        image: p,
         description: "Biuld realtime Mail Box",
         link: "https://mail-box-two.vercel.app/",
         git: "https://github.com/VaibbhavD/Mail-Box-Client",
       },
       {
         title: "Ecommerec Website",
-        image: project1,
+        image: p,
         description: "Ecommerce shopping website",
         link: "https://ecommerce-website-mu-henna.vercel.app/",
         git: "https://github.com/VaibbhavD/Ecommerce-Website",
       },
       {
         title: "Expense Tracker",
-        image: project1,
+        image: p,
         description: "Build Shopping Ecommerce website",
         git: "https://github.com/VaibbhavD/Expense-Tracker-ReactJs-Redux",
       },
