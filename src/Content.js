@@ -12,10 +12,10 @@ import bootstrap from "./assets/images/Skills/bootstrap.png";
 import firebase from "./assets/images/Skills/firebase.png";
 import github from "./assets/images/Skills/github.png";
 
-import project1 from "./assets/images/projects/blogger.png";
-import project2 from "./assets/images/projects/mail-box.png";
-import project3 from "./assets/images/projects/ecommerce.png";
-import project4 from "./assets/images/projects/expense-tracker.png";
+import project1 from "./assets/images/projects/person.png";
+// import project2 from "./assets/images/projects/mail-box.png";
+// import project3 from "./assets/images/projects/ecommerce.png";
+// import project4 from "./assets/images/projects/expense-tracker.png";
 
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
@@ -136,21 +136,21 @@ export const content = {
       },
       {
         title: "Mail-Box Client",
-        image: project2,
+        image: project1,
         description: "Biuld realtime Mail Box",
         link: "https://mail-box-two.vercel.app/",
         git: "https://github.com/VaibbhavD/Mail-Box-Client",
       },
       {
         title: "Ecommerec Website",
-        image: project3,
+        image: project1,
         description: "Ecommerce shopping website",
         link: "https://ecommerce-website-mu-henna.vercel.app/",
         git: "https://github.com/VaibbhavD/Ecommerce-Website",
       },
       {
         title: "Expense Tracker",
-        image: project4,
+        image: project1,
         description: "Build Shopping Ecommerce website",
         git: "https://github.com/VaibbhavD/Expense-Tracker-ReactJs-Redux",
       },
