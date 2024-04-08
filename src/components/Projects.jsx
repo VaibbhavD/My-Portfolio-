@@ -22,8 +22,12 @@ const Projects = () => {
                 <p class="text-gray-700 text-base">{content.description}</p>
               </div>
               <div class="px-6 pb-2 flex justify-around font-bold">
-                <a href={content.git}>GitHub</a>
-                <a href={content.link}>Live</a>
+                <a href={content.git} target="_blank">
+                  GitHub
+                </a>
+                <a href={content.link} target="_blank">
+                  Live
+                </a>
               </div>
             </div>
           ))}
