@@ -5,7 +5,7 @@ import { createElement } from "react";
 
 const Navbar = () => {
   const { nav } = content;
-  const [showMenu, setShowMenu] = useState(false);
+  const [showMenu, setShowMenu] = useState(true);
   const [active, setActive] = useState(0);
 
   return (
