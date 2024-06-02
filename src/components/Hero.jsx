@@ -36,7 +36,7 @@ const Hero = () => {
         </div>
 
         {/* sec col */}
-        <div className="md:h-[30rem] h-80 ">
+        <div className="md:h-[30rem] h-80 md:pt-0 mt-10 md:pl-0   ">
           <img
             src={hero.image}
             alt="..."
