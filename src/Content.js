@@ -128,6 +128,13 @@ export const content = {
     subtitle: "MY CREATION",
     project_content: [
       {
+        title: "Ecommerec Website",
+        image: project3,
+        description: "Ecommerce shopping website",
+        link: "https://e-shoppe-vaibhavd.netlify.app/",
+        git: "https://github.com/VaibbhavD/Shopping-Website",
+      },
+      {
         title: "BloGGeR Website",
         image: project1,
         description: "blog website anyone can post and see posts.",
@@ -141,13 +148,7 @@ export const content = {
         link: "https://mail-box-two.vercel.app/",
         git: "https://github.com/VaibbhavD/Mail-Box-Client",
       },
-      {
-        title: "Ecommerec Website",
-        image: project3,
-        description: "Ecommerce shopping website",
-        link: "https://ecommerce-website-mu-henna.vercel.app/",
-        git: "https://github.com/VaibbhavD/Ecommerce-Website",
-      },
+
       {
         title: "Expense Tracker",
         image: project4,
