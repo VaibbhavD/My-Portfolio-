@@ -16,6 +16,8 @@ import project1 from "./assets/images/Projects/blogger.png";
 import project2 from "./assets/images/Projects/mail-box.png";
 import project3 from "./assets/images/Projects/ecommerce.png";
 import project4 from "./assets/images/Projects/expense-tracker.png";
+import project5 from "./assets/images/Projects/tictoc.png";
+import project6 from "./assets/images/Projects/amazone.png";
 
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
@@ -154,6 +156,20 @@ export const content = {
         image: project4,
         description: "Build Shopping Ecommerce website",
         git: "https://github.com/VaibbhavD/Expense-Tracker-ReactJs-Redux",
+      },
+      {
+        title: "Tic-Toc-Toe Game",
+        image: project5,
+        description: "Tic Toc Toe Game",
+        link: "https://tic-toc-toe-sigma.vercel.app/",
+        git: "https://github.com/VaibbhavD/Tic-Toc-Toe",
+      },
+      {
+        title: "Amazone Page Design",
+        image: project6,
+        description: "Amazone Page Design HTML/CSS",
+        link: "https://amazoneclonevaibhavd.netlify.app/",
+        git: "https://github.com/VaibbhavD/AmazonDemo",
       },
     ],
   },
