@@ -18,6 +18,7 @@ import project3 from "./assets/images/Projects/ecommerce.png";
 import project4 from "./assets/images/Projects/expense-tracker.png";
 import project5 from "./assets/images/Projects/tictoc.png";
 import project6 from "./assets/images/Projects/amazone.png";
+import project7 from "./assets/images/Projects/todo.png";
 
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
@@ -163,6 +164,13 @@ export const content = {
         description: "Tic Toc Toe Game",
         link: "https://tic-toc-toe-sigma.vercel.app/",
         git: "https://github.com/VaibbhavD/Tic-Toc-Toe",
+      },
+      {
+        title: "Todo App",
+        image: project7,
+        description: "Todo app",
+        link: "https://todoapp-vaibhavd.netlify.app/",
+        git: "https://github.com/VaibbhavD/Todo-App",
       },
       {
         title: "Amazone Page Design",
