@@ -11,9 +11,9 @@ const Projects = () => {
         </div>
         <div className="grid md:grid-cols-4 items-center md:flex-row flex-col gap-5 p-5 w-full">
           {Projects.project_content.map((content, i) => (
-            <div class="md:full rounded-lg overflow-hidden shadow-lg">
+            <div class="md:full md:h-96 rounded-lg overflow-hidden shadow-lg">
               <img
-                class="w-full"
+                class="w-full md:min-h-56"
                 src={content.image}
                 alt="Sunset in the mountains"
               />
