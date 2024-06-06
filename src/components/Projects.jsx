@@ -9,9 +9,9 @@ const Projects = () => {
           <h3 data-aos="fade-down">{Projects.title}</h3>
           <h6 data-aos="fade-down">{Projects.subtitle}</h6>
         </div>
-        <div className="flex items-center md:flex-row flex-col gap-5 p-5 w-full">
+        <div className="grid md:grid-cols-4 items-center md:flex-row flex-col gap-5 p-5 w-full">
           {Projects.project_content.map((content, i) => (
-            <div class="md:w-1/4 rounded-lg overflow-hidden shadow-lg">
+            <div class="md:full rounded-lg overflow-hidden shadow-lg">
               <img
                 class="w-full"
                 src={content.image}
