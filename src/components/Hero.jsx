@@ -40,7 +40,7 @@ const Hero = () => {
           <img
             src={hero.image}
             alt="..."
-            className="h-full object-cover rounded-[50%]"
+            className="h-full object-cover rounded-full"
           />
         </div>
       </div>

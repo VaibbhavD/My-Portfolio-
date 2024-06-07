@@ -1,5 +1,6 @@
 // import images
 import Hero_person from "./assets/images/Hero/profile-pic.png";
+import Hero_person1 from "./assets/images/Hero/profile1.png";
 
 import java from "./assets/images/Skills/java.png";
 import javascript from "./assets/images/Skills/javascript.png";
@@ -56,7 +57,7 @@ export const content = {
     firstName: "VAIBHAV",
     LastName: "DHAMANAGE",
     btnText: "Hire Me",
-    image: Hero_person,
+    image: Hero_person1,
     hero_content: [
       {
         count: "10+",
