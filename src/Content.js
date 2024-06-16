@@ -20,6 +20,7 @@ import project4 from "./assets/images/Projects/expense-tracker.png";
 import project5 from "./assets/images/Projects/tictoc.png";
 import project6 from "./assets/images/Projects/amazone.png";
 import project7 from "./assets/images/Projects/todo.png";
+import gemini from "./assets/images/Projects/gemini.png";
 
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
@@ -137,6 +138,13 @@ export const content = {
         description: "Ecommerce shopping website",
         link: "https://e-shoppe-vaibhavd.netlify.app/",
         git: "https://github.com/VaibbhavD/Shopping-Website",
+      },
+      {
+        title: "Gemini AI",
+        image: gemini,
+        description: "Google Gemini AI Version",
+        link: "https://geminiai-vaibhavd.netlify.app/",
+        git: "https://github.com/VaibbhavD/Chat-GPT",
       },
       {
         title: "BloGGeR Website",
