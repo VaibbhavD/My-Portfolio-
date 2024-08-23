@@ -21,6 +21,7 @@ import project5 from "./assets/images/Projects/tictoc.png";
 import project6 from "./assets/images/Projects/amazone.png";
 import project7 from "./assets/images/Projects/todo.png";
 import gemini from "./assets/images/Projects/gemini.png";
+import tinder from "./assets/images/Projects/tinder.png";
 
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
@@ -138,6 +139,13 @@ export const content = {
         description: "Ecommerce shopping website",
         link: "https://e-shoppe-vaibhavd.netlify.app/",
         git: "https://github.com/VaibbhavD/Shopping-Website",
+      },
+      {
+        title: "tinder",
+        image: tinder,
+        description: "tinder Dating App",
+        link: "https://tinder-vaibhavd--neon.vercel.app/",
+        git: "https://github.com/VaibbhavD/Tinder-Clone",
       },
       {
         title: "Gemini AI",
