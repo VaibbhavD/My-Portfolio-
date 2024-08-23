@@ -16,6 +16,7 @@ const Projects = () => {
                 class="w-full md:min-h-56"
                 src={content.image}
                 alt="Sunset in the mountains"
+                loading="lazy"
               />
               <div class="px-6 py-4">
                 <div class="font-bold text-xl mb-2">{content.title}</div>
