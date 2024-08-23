@@ -15,7 +15,7 @@ const Projects = () => {
               <img
                 class="w-full md:min-h-56"
                 src={content.image}
-                alt="Sunset in the mountains"
+                alt={Projects.title}
                 loading="lazy"
               />
               <div class="px-6 py-4">
